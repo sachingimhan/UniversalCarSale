@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="User">
+      <implementation-class>lk.usc.service.User</implementation-class>
+    </service>
+    <service name="Vehicle">
+      <implementation-class>lk.usc.service.Vehicle</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
